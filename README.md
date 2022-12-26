@@ -5,7 +5,9 @@
 [![](https://img.shields.io/badge/MY%20PORTFOLIO-blue?style=for-the-badge)](https://developerankush.tk/)
 
 ## **Using Technology**
-[![Html](https://img.shields.io/badge/-HTML-red?style=for-the-badge&labelColor=black&logo=html&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-javascript-white?style=for-the-badge&labelColor=white&logo=javascript&logoColor=yellow)](#)
+ [![Javascript Badge](https://img.shields.io/badge/html-red?style=for-the-badge&labelColor=red&logo=HTML5&logoColor=white)](#) 
+[![css](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white)]()
+  [![Javascript Badge](https://img.shields.io/badge/-javascript-white?style=for-the-badge&labelColor=white&logo=javascript&logoColor=yellow)](#)
  
 
 # 1. Shade up. 
