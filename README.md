@@ -57,3 +57,9 @@
 ## 🚀 [LiVE PROJECT LINK](https://iridescent-puppy-c693a0.netlify.app/) 
 ## [code link](https://github.com/Ankush8950/JokesGenerator)
 ![Jokes Generator](./jokesapi.png)
+
+# 9. Calculator.
+
+## 🚀 [LiVE PROJECT LINK](https://tourmaline-marzipan-3be99d.netlify.app/) 
+## [code link](https://github.com/Ankush8950/Calculator)
+![Jokes Generator](./calculator.png)
